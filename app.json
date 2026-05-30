@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Koleksiyon Avcisi",
+    "slug": "koleksiyon-avcisi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f8f3e8"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
