@@ -5,6 +5,10 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f8f3e8",
+      "resizeMode": "contain"
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -14,6 +18,10 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#f8f3e8"
+      },
+      "splash": {
+        "backgroundColor": "#f8f3e8",
+        "resizeMode": "contain"
       },
       "package": "com.uaslan.koleksiyonavcisi"
     },
