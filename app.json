@@ -14,10 +14,16 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#f8f3e8"
-      }
+      },
+      "package": "com.uaslan.koleksiyonavcisi"
     },
     "web": {
       "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2730f05b-35fb-4cc8-8126-d24078631a3b"
+      }
     }
   }
 }
